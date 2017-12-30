@@ -2,11 +2,11 @@
 
 This tool can;
 
--Clear logs
--Upload & run virus
--Transfer money
--Parse IPs
--Parse bank accounts
+   - Clear logs
+   - Upload & run virus
+   - Transfer money
+   - Parse IPs
+   - Parse bank accounts
 
 and some functions like clearing logs after doing these things, cracking server automatically, reads config from config.txt, etc..
 
